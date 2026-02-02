@@ -128,11 +128,7 @@ house-price-prediction/
 
 Created by **Sathwik Vakalapudi** — feel free to reach out for any questions or collaborations!
 
----
 
-## 📜 License
-
-This repository is licensed under the MIT License.  
 
 
 
